@@ -1,9 +1,3 @@
-# Face-Recognition-Attendance-Management-System
-Attendance Management System based on Face Recognition using Python  and OpenCv  
-
-### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
-
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
 - Tkinter(Available in python)
@@ -31,9 +25,6 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 
 ### Basic UI
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
-
-### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
 
 ### While filling automatic attendance
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
