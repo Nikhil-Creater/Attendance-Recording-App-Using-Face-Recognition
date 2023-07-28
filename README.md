@@ -35,12 +35,6 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### Manually attendance filling UI
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
 
-
-### Video demo
-
-[Youtube](https://youtu.be/onms2KDOTtY)
-
-
 ### Notes
 - It will require high processing power(I have 8 GB RAM)
 - Noisy image can reduce the accuracy, so quality of images should be good.
